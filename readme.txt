@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 
 Git tracks changes
 
-i have a remote repository ©ирт
+i have a remote repository Е▐╞Д╩╔
